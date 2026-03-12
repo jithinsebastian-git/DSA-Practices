@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransposeMatrix", "TransposeMatrix\TransposeMatrix.csproj", "{F7395F6D-6139-4355-8BC3-EE437D607DC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuSolver", "SudokuSolver\SudokuSolver.csproj", "{A60856E6-E740-4410-AD8D-370BA04BEBF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSubstringWithoutRepeatingChars", "LongestSubstringWithoutRepeatingChars\LongestSubstringWithoutRepeatingChars.csproj", "{E97F42AE-52C2-CCB4-A52B-7DEEAB5E555D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7395F6D-6139-4355-8BC3-EE437D607DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7395F6D-6139-4355-8BC3-EE437D607DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7395F6D-6139-4355-8BC3-EE437D607DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7395F6D-6139-4355-8BC3-EE437D607DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A60856E6-E740-4410-AD8D-370BA04BEBF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A60856E6-E740-4410-AD8D-370BA04BEBF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A60856E6-E740-4410-AD8D-370BA04BEBF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A60856E6-E740-4410-AD8D-370BA04BEBF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E97F42AE-52C2-CCB4-A52B-7DEEAB5E555D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E97F42AE-52C2-CCB4-A52B-7DEEAB5E555D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E97F42AE-52C2-CCB4-A52B-7DEEAB5E555D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E97F42AE-52C2-CCB4-A52B-7DEEAB5E555D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD933AF0-D9A0-4306-90E1-AE1DD297ACA4}
+	EndGlobalSection
+EndGlobal
