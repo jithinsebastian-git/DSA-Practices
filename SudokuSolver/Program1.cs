@@ -1,5 +1,6 @@
 ﻿public class Solution
 {
+    //samle to test other methods before implementing the main logic of the solution
     public static void Main1()
     {
         char[][] board = new char[][]
