@@ -2,26 +2,26 @@ DSA questions refer to problems based on Data Structures and Algorithms, commonl
 
 Data Structures are ways to organize and store data — examples include arrays, linked lists, stacks, queues, trees, heaps, graphs, hash maps, and tries. Algorithms are step-by-step procedures to solve problems — examples include sorting, searching, recursion, dynamic programming, and graph traversal.
 
-Purpose of DSA Questions
+**Purpose of DSA Questions**
 
-Evaluate problem-solving skills: How well you can break down a problem into smaller steps.
+**Evaluate problem-solving skills:** How well you can break down a problem into smaller steps.
 
-Test efficiency: Whether your solution meets time and space constraints.
+**Test efficiency:** Whether your solution meets time and space constraints.
 
-Check understanding of concepts: Such as complexity analysis, memory usage, and data relationships.
+**Check understanding of concepts:** Such as complexity analysis, memory usage, and data relationships.
 
-Common Categories of DSA Questions
+**Common Categories of DSA Questions**
 
-Arrays & Strings – e.g., Two Sum, Rotate Array, Longest Substring Without Repeating Characters.
+_Arrays & Strings_ – e.g., Two Sum, Rotate Array, Longest Substring Without Repeating Characters.
 
-Linked Lists – e.g., Reverse a Linked List, Detect Cycle.
+_Linked Lists_ – e.g., Reverse a Linked List, Detect Cycle.
 
-Stacks & Queues – e.g., Valid Parentheses, LRU Cache.
+_Stacks & Queues_ – e.g., Valid Parentheses, LRU Cache.
 
-Trees & Graphs – e.g., Binary Tree Traversals, Topological Sort, Number of Islands.
+_Trees & Graphs_ – e.g., Binary Tree Traversals, Topological Sort, Number of Islands.
 
-Dynamic Programming – e.g., Longest Increasing Subsequence, Coin Change.
+_Dynamic Programming_ – e.g., Longest Increasing Subsequence, Coin Change.
 
-Greedy Algorithms – e.g., Activity Selection, Minimum Platforms.
+_Greedy Algorithms_ – e.g., Activity Selection, Minimum Platforms.
 
-Searching & Sorting – e.g., Binary Search, Merge Sort.
+_Searching & Sorting_ – e.g., Binary Search, Merge Sort.
